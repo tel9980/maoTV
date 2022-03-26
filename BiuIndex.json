@@ -1,75 +1,323 @@
 {
+    "zhuyejiekou": [
+        {
+            "name": "独播社",
+            "url": "http://35ys.cc/api.php/v1.vod"
+        },
+        {
+            "name": "爱西西",
+            "url": "https://myaixixi.com/xgapp.php/v1/"
+        },
+        {
+            "name": "嘀哩嘀哩",
+            "url": "http://dilidili.la/api.php/app/"
+        },
+        {
+            "name": "天空影视",
+            "url": "https://www.tkys.tv/xgapp.php/v2/"
+        },
+        {
+            "name": "益达影院",
+            "url": "http://luobu.yss6080.com/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "云梦影视",
+            "url": "https://yun.yunl.xyz/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "追剧吧",
+            "url": "http://zhuiju8.vip/api.php/v1.vod"
+        },
+        {
+            "name": "快云影音",
+            "url": "https://www.kuaiyunyy.com/api.php/app/"
+        },
+        {
+            "name": "虎猫视频",
+            "url": "https://humaosp.com/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "星空影视",
+            "url": "https://xkys.tv/xgapp.php/v1/"
+        },
+        {
+            "name": "4K影院",
+            "url": "http://1api.4kdytv.com/api.php/v1.vod"
+        },
+        {
+            "name": "极光影院",
+            "url": "http://app.winxz.cc/api.php/v1.vod"
+        },
+        {
+            "name": "DC影视",
+            "url": "http://chaorenbb.com/api.php/v1.vod"
+        },
+        {
+            "name": "看365",
+            "url": "https://www.kan365.xyz/api.php/app/"
+        },
+        {
+            "name": "雨果影视",
+            "url": "http://2.yhys63.com/api.php/v1.vod"
+        },
+        {
+            "name": "柚子视频",
+            "url": "http://yz.26ys.cn/api.php/v1.vod"
+        },
+        {
+            "name": "初心影视",
+            "url": "https://www.18mv.club/api.php/v1.vod"
+        },
+        {
+            "name": "月色影视",
+            "url": "http://69ty.cc/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "蜜蜂影视",
+            "url": "http://app.f8tp.com/lvdou_api.php/v1.vod"
+        },
+        {
+            "name": "阿里影视",
+            "url": "http://aliys.cn:90/api.php/v1.vod"
+        },
+        {
+            "name": "嗷呜影院",
+            "url": "http://aowu.pro/api.php/v1.vod"
+        },
+        {
+            "name": "美剧虫",
+            "url": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+            "name": "月儿影视",
+            "url": "https://yue52.xyz/api.php/v1.vod"
+        },
+        {
+            "name": "樱花动漫",
+            "url": "https://www.dmwu.cc/api.php/v1.vod"
+        },
+        {
+            "name": "小白动漫",
+            "url": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "心鸾影视",
+            "url": "http://zhiyutv.xyz/api.php/v1.vod"
+        },
+        {
+            "name": "QC影视",
+            "url": "https://www.qcsvip.com/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "U5影视",
+            "url": "https://appx.uy07.com/api.php/v1.vod"
+        },
+        {
+            "name": "爱影视",
+            "url": "https://www.hzlff.cn/api.php/v1.vod"
+        },
+        {
+            "name": "多啦咪PRO",
+            "url": "http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"
+        },
+        {
+            "name": "比邻影视",
+            "url": "http://0hzy.cn:9990/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "豆渣影视",
+            "url": "http://douzhayss.cc/api.php/v1.vod"
+        },
+        {
+            "name": "黄河影视",
+            "url": "http://i.ledu8.cn/api.php/v1.vod"
+        },
+        {
+            "name": "晗先森",
+            "url": "https://hantv.top/api.php/v1.vod"
+        },
+        {
+            "name": "极酷视频",
+            "url": "https://jiku.vip/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "冷视TV",
+            "url": "https://len.tv/api.php/v1.vod"
+        },
+        {
+            "name": "橘子影视",
+            "url": "http://jz.juzidy.vip/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "看剧吧",
+            "url": "http://app.ishen520.com/api.php/v1.vod"
+        },
+        {
+            "name": "看看剧",
+            "url": "https://www.kankanju.cn/api.php/v1.vod"
+        },
+        {
+            "name": "久九影视",
+            "url": "https://api.58qxk.cn/xgapp.php/v1/"
+        },
+        {
+            "name": "绿豆视频",
+            "url": "https://v.lvdoui.cn/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "蓝光视频",
+            "url": "http://vip.91iqiyi.com/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "皮皮动漫",
+            "url": "http://dm.muying.me/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "天天视频",
+            "url": "http://app.qianju.cc/api.php/v1.vod"
+        },
+        {
+            "name": "吾爱影视",
+            "url": "http://app.5lp.net/api.php/v1.vod"
+        },
+        {
+            "name": "小蜻蜓",
+            "url": "http://3ketv.com/mogai_api.php/v1.vod"
+        },
+        {
+            "name": "玺心影视",
+            "url": "https://tv.arbd.cn/api.php/v1.vod"
+        },
+        {
+            "name": "追剧猫",
+            "url": "http://tv.kmtvb.com/api.php/v1.vod"
+        },
+        {
+            "name": "猪猪影院",
+            "url": "http://app.2zdyy.com/api.php/v1.vod"
+        },
+        {
+            "name": "913e影视",
+            "url": "http://www.913e.net/xgapp.php/v1/"
+        },
+        {
+            "name": "播放呀",
+            "url": "https://www.bofangya.com/xgapp.php/v1/"
+        },
+        {
+            "name": "海胆影视",
+            "url": "http://xf123.cc/api.php/app/"
+        },
+        {
+            "name": "抹茶猪",
+            "url": "https://www.mczdyw.com/api.php/app/"
+        },
+        {
+            "name": "萌蛋蛋",
+            "url": "http://app.mengdandan.com/xgapp.php/v1/"
+        },
+        {
+            "name": "莫扎兔",
+            "url": "http://www.mozhatu.xyz/api.php/app/"
+        },
+        {
+            "name": "天神影视",
+            "url": "https://deity.fun/api.php/app/"
+        },
+        {
+            "name": "暖光影视",
+            "url": "https://app.bl210.com/api.php/v1.vod"
+        }
+    ],
+    "zhujiexi": "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=#https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url=#https://json.hfyrw.com/mao.go?url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=#https://json.pangujiexi.com:12345/json.php?url=",
+    "beiyongjiexi": "https://nbjx.vip/?url=",
+    "dianshizhibo": "https://gitee.com/tvb520/biubiu/raw/master/zb.php",
+    "caijizhan": "https://koko.renrenmi.cc/api.php",
     "tiyuzhibo": "https://m.zhibo8.net",
     "reci": "https://v.sogou.com",
+    "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
+    "gongju": "aHR0cDovLzQyLjE5My41NS4yNDI=",
     "lunbofanye": "https://www.douyu.com/gapi/rkc/directory/mixList/2_208/",
     "lunboqianzhui": "https://m.douyu.com",
     "Home": {
-        "name": "主页资源",
-        "list": "http://television.wkfile.com/api.php/app/video?",
-        "detail": "http://television.wkfile.com/api.php/app/video_detail?id=",
-        "searchbefore": "http://television.wkfile.com/api.php/app/search?text=",
-        "searchlater": "&pg=1",
-        "extra": "&limit=20&pg=",
-        "suffix": "",
-        "play": "vod_url_with_player",
         "dy": {
-            "key": "tid=1",
-            "class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#伦理$&class=伦理#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
+            "class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
             "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#欧洲$&area=欧洲#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#印度$&area=印度#其它$&area=其它",
             "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
         },
         "dsj": {
-            "key": "tid=2",
-            "class": "全部$&class=#古装$&class=古装#言情$&class=言情#武侠$&class=武侠#偶像$&class=偶像#家庭$&class=家庭#青春$&class=青春#都市$&class=都市#喜剧$&class=喜剧#战争$&class=战争#军旅$&class=军旅#谍战$&class=谍战#悬疑$&class=悬疑#罪案$&class=罪案#穿越$&class=穿越#宫廷$&class=宫廷#历史$&class=历史#神话$&class=神话#科幻$&class=科幻#年代$&class=年代#农村$&class=农村#商战$&class=商战#剧情$&class=剧情#奇幻$&class=奇幻#网剧$&class=网剧#真人动漫$&class=真人动漫#体育电竞$&class=体育电竞",
+            "class": "全部$&class=#古装$&class=古装#言情$&class=言情#武侠$&class=武侠#偶像$&class=偶像#家庭$&class=家庭#青春$&class=青春#都市$&class=都市#喜剧$&class=喜剧#战争$&class=战争#军旅$&class=军旅#谍战$&class=谍战#悬疑$&class=悬疑#罪案$&class=罪案#穿越$&class=穿越#宫廷$&class=宫廷#历史$&class=历史#神话$&class=神话#科幻$&class=科幻#年代$&class=年代#农村$&class=农村#商战$&class=商战#剧情$&class=剧情#奇幻$&class=奇幻",
             "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#英国$&area=英国#韩国$&area=韩国#日本$&area=日本#泰国$&area=泰国#台湾$&area=台湾#其它$&area=其它",
             "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
         },
         "zy": {
-            "key": "tid=3",
-            "class": "全部$&class=#表演$&class=表演#播报$&class=播报#访谈$&class=访谈#体验$&class=体验#养成$&class=养成#游戏$&class=游戏#亲子$&class=亲子#美食$&class=美食#情感$&class=情感#选秀$&class=选秀#益智$&class=益智#晚会$&class=晚会#音乐$&class=音乐#文化$&class=文化#喜剧$&class=喜剧#曲艺$&class=曲艺#职场$&class=职场#脱口秀$&class=脱口秀#真人秀$&class=真人秀#竞技$&class=竞技#潮流文化$&class=潮流文化#体育$&class=体育#资讯$&class=资讯#萌宠$&class=萌宠#生活服务$&class=生活服务",
+            "class": "全部$&class=#表演$&class=表演#播报$&class=播报#访谈$&class=访谈#体验$&class=体验#养成$&class=养成#游戏$&class=游戏#亲子$&class=亲子#美食$&class=美食#情感$&class=情感#选秀$&class=选秀#益智$&class=益智#晚会$&class=晚会#音乐$&class=音乐#文化$&class=文化#喜剧$&class=喜剧#曲艺$&class=曲艺#职场$&class=职场#脱口秀$&class=脱口秀#真人秀$&class=真人秀#竞技$&class=竞技#体育$&class=体育#萌宠$&class=萌宠",
             "area": "全部$&area=#内地$&area=内地#香港$&area=香港#美国$&area=美国#韩国$&area=韩国#日本$&area=日本#台湾$&area=台湾",
             "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
         },
         "dm": {
-            "key": "tid=4",
-            "class": "全部$&class=#搞笑$&class=搞笑#番剧$&class=番剧#国创$&class=国创#大电影$&class=大电影#热血$&class=热血#催泪$&class=催泪#治愈$&class=治愈#励志$&class=励志#机战$&class=机战#战斗$&class=战斗#恋爱$&class=恋爱#科幻$&class=科幻#奇幻$&class=奇幻#魔幻$&class=魔幻#推理$&class=推理#校园$&class=校园#日常$&class=日常#经典$&class=经典#历史$&class=历史#美食$&class=美食#职场$&class=职场#偶像$&class=偶像#泡面$&class=泡面#冒险$&class=冒险#竞技$&class=竞技#合家欢$&class=合家欢#武侠$&class=武侠#玄幻$&class=玄幻",
+            "class": "全部$&class=#搞笑$&class=搞笑#番剧$&class=番剧#国创$&class=国创#大电影$&class=大电影#热血$&class=热血#催泪$&class=催泪#治愈$&class=治愈#励志$&class=励志#机战$&class=机战#战斗$&class=战斗#恋爱$&class=恋爱#科幻$&class=科幻#奇幻$&class=奇幻#魔幻$&class=魔幻#推理$&class=推理#校园$&class=校园#日常$&class=日常#经典$&class=经典#历史$&class=历史#美食$&class=美食#职场$&class=职场#偶像$&class=偶像#泡面$&class=泡面#冒险$&class=冒险#竞技$&class=竞技#武侠$&class=武侠#玄幻$&class=玄幻",
             "area": "全部$&area=#内地$&area=内地#日本$&area=日本#欧美$&area=欧美#其它$&area=其它",
             "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
         }
     },
     "zidingyi": {
-        "name": "自定义资源",
-        "url": "https://www.6080kan.cc",
-        "list": "https://www.6080kan.cc/",
-        "detail": "a",
-        "searchbefore": "a",
-        "searchlater": "a",
-        "extra": "a",
-        "suffix": "a",
-        "play": "a",
-        "dy": {
-            "key": "a",
-            "class": "a",
-            "area": "a",
-            "year": "a"
-        },
-        "dsj": {
-            "key": "a",
-            "class": "a",
-            "area": "a",
-            "year": "z"
-        },
-        "zy": {
-            "key": "a",
-            "class": "a",
-            "area": "a",
-            "year": "a"
-        },
-        "dm": {
-            "key": "a",
-            "class": "a",
-            "area": "a",
-            "year": "a"
-        }
+        "name": "影视工厂",
+        "url": "https://www.ysgc.cc",
+        "tihuan": "cnzz.com",
+        "User": "空",
+        "fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#番剧$/vodshow/26--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#动作片$/vodshow/1---动作-----#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#科幻片$/vodshow/1---科幻-----#恐怖片$/vodshow/1---恐怖-----#剧情片$/vodshow/1---剧情-----#战争片$/vodshow/1---战争-----#武侠片$/vodshow/1---武侠-----",
+        "houzhui": "---.html",
+        "shifouercijiequ": "0",
+        "jiequqian": "空",
+        "jiequhou": "空",
+        "jiequshuzuqian": "class=\"myui-vodlist__box\"",
+        "jiequshuzuhou": "</span>",
+        "tupianqian": "original=\"",
+        "tupianhou": "\"",
+        "biaotiqian": "title=\"",
+        "biaotihou": "\"",
+        "lianjieqian": "href=\"",
+        "lianjiehou": "\"",
+        "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+        "sousuohou": "&limit=500",
+        "sousuohouzhui": "/voddetail/",
+        "ssmoshi": "0",
+        "sousuoshifouercijiequ": "0",
+        "jspic": "pic",
+        "jsname": "name",
+        "jsid": "id",
+        "ssjiequqian": "空",
+        "ssjiequhou": "空",
+        "ssjiequshuzuqian": "空",
+        "ssjiequshuzuhou": "空",
+        "sstupianqian": "空",
+        "sstupianhou": "空",
+        "ssbiaotiqian": "空",
+        "ssbiaotihou": "空",
+        "sslianjieqian": "空",
+        "sslianjiehou": "空",
+        "bfshifouercijiequ": "0",
+        "bfjiequqian": "空",
+        "bfjiequhou": "空",
+        "bfjiequshuzuqian": "id=\"playlist",
+        "bfjiequshuzuhou": "</ul>",
+        "zhuangtaiqian": "class=\"otherbox\">",
+        "zhuangtaihou": "</p>",
+        "daoyanqian": "导演：</span>",
+        "daoyanhou": "</p>",
+        "zhuyanqian": "主演：</span>",
+        "zhuyanhou": "</p>",
+        "juqingqian": "style=\"display: none;\">",
+        "juqinghou": "</span>",
+        "bfyshifouercijiequ": "0",
+        "bfyjiequqian": "空",
+        "bfyjiequhou": "空",
+        "bfyjiequshuzuqian": "<a",
+        "bfyjiequshuzuhou": "/a>",
+        "bfbiaotiqian": ">",
+        "bfbiaotihou": "<",
+        "bflianjieqian": "href=\"",
+        "bflianjiehou": "\""
     }
 }
